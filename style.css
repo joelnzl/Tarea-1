@@ -1,2 +1,7 @@
-*, *;;::after, *;;::before {
+body {
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(102, 84, 119);
+    text-align: center;
     
+}
